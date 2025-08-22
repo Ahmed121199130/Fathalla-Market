@@ -15,7 +15,7 @@ It provides insights into sales performance across branches, categories, sub-cat
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)  
+![Dashboard Screenshot](Screenshot 2025-08-22 080524.png)  
   
 
 ---
